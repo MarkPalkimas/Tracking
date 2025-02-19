@@ -4,7 +4,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #000; /* Dark background for neon effect */
+    background: #999; /* Dark background for neon effect */
 }
 
 #neon-container {
